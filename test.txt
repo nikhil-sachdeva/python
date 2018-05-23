@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9AA1-24BC
+
+ Directory of C:\Users\Nikhil\Documents\myproj
+
+23-05-2018  19:12    <DIR>          .
+23-05-2018  19:12    <DIR>          ..
+23-05-2018  19:12                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  163,519,909,888 bytes free
